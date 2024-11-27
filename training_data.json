@@ -1,0 +1,573 @@
+[
+    {
+      "text": "daily round: IPD round.",
+      "entities": [
+        [15, 24, "Daily-Round"]
+      ]
+    },
+    {
+      "text": "name: Hindirao Desai.",
+      "entities": [
+        [6, 20, "PATIENT_NAME"]
+      ]
+    },
+    {
+      "text": "Date: 10-8-24 Morning, round 9 am.",
+      "entities": [
+        [6, 14, "DATE"],
+        [15, 34, "TIME"]
+      ]
+    },
+    {
+      "text": "Seen by RMO under Dr Paliakar, Complaint of pain at operative site.",
+      "entities": [
+        [19, 29, "DOCTOR_NAME"],
+        [40, 67, "Complaint"]
+      ]
+    },
+    {
+      "text": "Blood pressure: 120 by 70 mm Hg.",
+      "entities": [
+        [16, 29, "VITALS"]
+      ]
+    },
+    {
+      "text": "Pulse rate 76 per minute.",
+      "entities": [
+        [12, 17, "VITALS"]
+      ]
+    },
+    {
+      "text": "Respiratory rate 20 per minute.",
+      "entities": [
+        [18, 20, "VITALS"]
+      ]
+    },
+    {
+      "text": "SpO2: 97 per minute.",
+      "entities": [
+        [6, 8, "ORDERS"]
+      ]
+    },
+    {
+      "text": "RS Air entry: bilateral Equal and bilateral.",
+      "entities": [
+        [14, 33, "Examinations"]
+      ]
+    },
+    {
+      "text": "CVS S1, S2, normal.",
+      "entities": [
+        [0, 18, "Examinations"]
+      ]
+    },
+    {
+      "text": "CNS conscious and oriented.",
+      "entities": [
+        [4, 26, "Examinations"]
+      ]
+    },
+    {
+      "text": "Per abdomen soft JT in situ.",
+      "entities": [
+        [4, 30, "Examinations"]
+      ]
+    },
+    {
+      "text": "Input: 550 ml.",
+      "entities": [
+        [7, 14, "Input"]
+      ]
+    },
+    {
+      "text": "Output: 100 ml.",
+      "entities": [
+        [8, 15, "Output"]
+      ]
+    },
+    {
+      "text": "Orders Maintain TPR BP SPO2 4 hourly.",
+      "entities": [
+        [8, 37, "Orders"]
+      ]
+    },
+    {
+      "text": "NBM till next order.",
+      "entities": [
+        [0, 20, "Orders"]
+      ]
+    },
+    {
+      "text": "IV Injection: Citri 1g.",
+      "entities": [
+        [14, 23, "Medication"]
+      ]
+    },
+    {
+      "text": "12 hourly Injection: Pan 40 mg IV.",
+      "entities": [
+        [18, 27, "Medication"],
+        [0, 9, "Frequency"]
+      ]
+    },
+    {
+      "text": "Injection: MZ8 hourly.",
+      "entities": [
+        [11, 14, "Medication"],
+        [15, 22, "Frequency"]
+      ]
+    },
+    {
+      "text": "IV Metro 100 ml 8 hourly.",
+      "entities": [
+        [3, 12, "Medication"],
+        [21, 29, "Frequency"]
+      ]
+    },
+    {
+      "text": "IV fluid: NS 1 point.",
+      "entities": [
+        [10, 17, "Fluid"]
+      ]
+    },
+    {
+      "text": "RL 1 point.",
+      "entities": [
+        [0, 10, "Fluid"]
+      ]
+    },
+    {
+      "text": "DNS: 1 point.",
+      "entities": [
+        [0, 12, "Fluid"]
+      ]
+    },
+    {
+      "text": "Inform SOS, Mobilize Patient.",
+      "entities": [
+        [0, 26, "Instructions"]
+      ]
+    },
+    
+    {
+      "text": "daily round: OPD round.",
+      "entities": [
+        [15, 24, "Daily-Round"]
+      ]
+    },
+    {
+      "text": "name: Rajesh Kumar.",
+      "entities": [
+        [6, 18, "PATIENT_NAME"]
+      ]
+    },
+    {
+      "text": "Date: 11-8-24 Evening, round 6 pm.",
+      "entities": [
+        [6, 14, "DATE"],
+        [15, 33, "TIME"]
+      ]
+    },
+    {
+      "text": "Seen by RMO under Dr Sharma, Complaint of fever and headache.",
+      "entities": [
+        [19, 28, "DOCTOR_NAME"],
+        [41, 58, "Complaint"]
+      ]
+    },
+    {
+      "text": "Blood pressure: 130 by 80 mm Hg.",
+      "entities": [
+        [16, 29, "VITALS"]
+      ]
+    },
+    {
+      "text": "Pulse rate 80 per minute.",
+      "entities": [
+        [12, 17, "VITALS"]
+      ]
+    },
+    {
+      "text": "Respiratory rate 18 per minute.",
+      "entities": [
+        [18, 20, "VITALS"]
+      ]
+    },
+    {
+      "text": "SpO2: 98 per minute.",
+      "entities": [
+        [6, 8, "ORDERS"]
+      ]
+    },
+    {
+      "text": "RS Air entry: bilateral clear.",
+      "entities": [
+        [14, 31, "Examinations"]
+      ]
+    },
+    {
+      "text": "CVS S1, S2, no murmurs.",
+      "entities": [
+        [0, 22, "Examinations"]
+      ]
+    },
+    {
+      "text": "CNS fully alert and responsive.",
+      "entities": [
+        [4, 32, "Examinations"]
+      ]
+    },
+    {
+      "text": "Per abdomen soft and non-tender.",
+      "entities": [
+        [4, 34, "Examinations"]
+      ]
+    },
+    {
+      "text": "Input: 450 ml.",
+      "entities": [
+        [7, 14, "Input"]
+      ]
+    },
+    {
+      "text": "Output: 200 ml.",
+      "entities": [
+        [8, 15, "Output"]
+      ]
+    },
+    {
+      "text": "Orders Monitor vitals every 4 hours.",
+      "entities": [
+        [8, 39, "Orders"]
+      ]
+    },
+    {
+      "text": "NBM till further notice.",
+      "entities": [
+        [0, 24, "Orders"]
+      ]
+    },
+    {
+      "text": "IV Injection: Paracetamol 1g.",
+      "entities": [
+        [14, 28, "Medication"]
+      ]
+    },
+    {
+      "text": "8 hourly Injection: Ranitidine 50 mg IV.",
+      "entities": [
+        [17, 27, "Medication"],
+        [0, 8, "Frequency"]
+      ]
+    },
+    {
+      "text": "Injection: Ceftriaxone 1g 12 hourly.",
+      "entities": [
+        [11, 24, "Medication"],
+        [25, 34, "Frequency"]
+      ]
+    },
+    {
+      "text": "IV fluid: RL 500 ml over 8 hours.",
+      "entities": [
+        [10, 17, "Fluid"],
+        [26, 35, "Frequency"]
+      ]
+    },
+    {
+      "text": "DNS 1 liter over 12 hours.",
+      "entities": [
+        [0, 11, "Fluid"],
+        [18, 27, "Frequency"]
+      ]
+    },
+    {
+      "text": "NS 500 ml over 4 hours.",
+      "entities": [
+        [0, 11, "Fluid"],
+        [18, 27, "Frequency"]
+      ]
+    },
+    {
+      "text": "Mobilize patient and encourage oral intake.",
+      "entities": [
+        [0, 43, "Instructions"]
+      ]
+    },
+    
+    {
+      "text": "daily round: ICU round.",
+      "entities": [
+        [15, 24, "Daily-Round"]
+      ]
+    },
+    {
+      "text": "name: Anita Mehra.",
+      "entities": [
+        [6, 18, "PATIENT_NAME"]
+      ]
+    },
+    {
+      "text": "Date: 11-8-24 Night, round 10 pm.",
+      "entities": [
+        [6, 14, "DATE"],
+        [15, 34, "TIME"]
+      ]
+    },
+    {
+      "text": "Seen by RMO under Dr Mehta, Complaint of chest pain and shortness of breath.",
+      "entities": [
+        [19, 28, "DOCTOR_NAME"],
+        [40, 72, "Complaint"]
+      ]
+    },
+    {
+      "text": "Blood pressure: 140 by 90 mm Hg.",
+      "entities": [
+        [16, 29, "VITALS"]
+      ]
+    },
+    {
+      "text": "Pulse rate 88 per minute.",
+      "entities": [
+        [12, 17, "VITALS"]
+      ]
+    },
+    {
+      "text": "Respiratory rate 22 per minute.",
+      "entities": [
+        [18, 20, "VITALS"]
+      ]
+    },
+    {
+      "text": "SpO2: 92 on room air.",
+      "entities": [
+        [6, 8, "ORDERS"]
+      ]
+    },
+    {
+      "text": "RS Air entry: reduced on left side.",
+      "entities": [
+        [14, 40, "Examinations"]
+      ]
+    },
+    {
+      "text": "CVS S1, S2, regular rhythm.",
+      "entities": [
+        [0, 26, "Examinations"]
+      ]
+    },
+    {
+      "text": "CNS drowsy but arousable.",
+      "entities": [
+        [4, 26, "Examinations"]
+      ]
+    },
+    {
+      "text": "Per abdomen soft and mildly distended.",
+      "entities": [
+        [4, 38, "Examinations"]
+      ]
+    },
+    {
+      "text": "Input: 600 ml.",
+      "entities": [
+        [7, 14, "Input"]
+      ]
+    },
+    {
+      "text": "Output: 150 ml.",
+      "entities": [
+        [8, 15, "Output"]
+      ]
+    },
+    {
+      "text": "Orders Keep patient NBM. Monitor vitals every 6 hours.",
+      "entities": [
+        [8, 50, "Orders"]
+      ]
+    },
+    {
+      "text": "IV Injection: Cefotaxime 1g.",
+      "entities": [
+        [14, 28, "Medication"]
+      ]
+    },
+    {
+      "text": "6 hourly Injection: Metronidazole 100 ml IV.",
+      "entities": [
+        [17, 32, "Medication"],
+        [0, 8, "Frequency"]
+      ]
+    },
+    {
+      "text": "Injection: Ondansetron 4 mg 8 hourly.",
+      "entities": [
+        [11, 25, "Medication"],
+        [26, 34, "Frequency"]
+      ]
+    },
+    {
+      "text": "IV fluid: RL 1 liter over 12 hours.",
+      "entities": [
+        [10, 17, "Fluid"],
+        [26, 35, "Frequency"]
+      ]
+    },
+    {
+      "text": "NS 500 ml over 6 hours.",
+      "entities": [
+        [0, 11, "Fluid"],
+        [18, 27, "Frequency"]
+      ]
+    },
+    {
+      "text": "DNS 1 liter over 8 hours.",
+      "entities": [
+        [0, 11, "Fluid"],
+        [18, 27, "Frequency"]
+      ]
+    },
+    {
+      "text": "Inform patient’s family, encourage incentive spirometry.",
+      "entities": [
+        [0, 56, "Instructions"]
+      ]
+    },
+    {
+      "text": "daily round: Ward round.",
+      "entities": [
+        [15, 25, "Daily-Round"]
+      ]
+    },
+    {
+      "text": "name: Priya Singh.",
+      "entities": [
+        [6, 18, "PATIENT_NAME"]
+      ]
+    },
+    {
+      "text": "Date: 12-8-24 Afternoon, round 2 pm.",
+      "entities": [
+        [6, 14, "DATE"],
+        [15, 38, "TIME"]
+      ]
+    },
+    {
+      "text": "Seen by RMO under Dr Kapoor, Complaint of abdominal pain and vomiting.",
+      "entities": [
+        [19, 28, "DOCTOR_NAME"],
+        [40, 67, "Complaint"]
+      ]
+    },
+    {
+      "text": "Blood pressure: 125 by 80 mm Hg.",
+      "entities": [
+        [16, 29, "VITALS"]
+      ]
+    },
+    {
+      "text": "Pulse rate 72 per minute.",
+      "entities": [
+        [12, 17, "VITALS"]
+      ]
+    },
+    {
+      "text": "Respiratory rate 18 per minute.",
+      "entities": [
+        [18, 20, "VITALS"]
+      ]
+    },
+    {
+      "text": "SpO2: 96 on room air.",
+      "entities": [
+        [6, 8, "ORDERS"]
+      ]
+    },
+    {
+      "text": "RS Air entry: clear bilaterally.",
+      "entities": [
+        [14, 36, "Examinations"]
+      ]
+    },
+    {
+      "text": "CVS S1, S2, normal rhythm.",
+      "entities": [
+        [0, 25, "Examinations"]
+      ]
+    },
+    {
+      "text": "CNS fully conscious and oriented.",
+      "entities": [
+        [4, 34, "Examinations"]
+      ]
+    },
+    {
+      "text": "Per abdomen soft and non-tender.",
+      "entities": [
+        [4, 34, "Examinations"]
+      ]
+    },
+    {
+      "text": "Input: 700 ml.",
+      "entities": [
+        [7, 14, "Input"]
+      ]
+    },
+    {
+      "text": "Output: 500 ml.",
+      "entities": [
+        [8, 15, "Output"]
+      ]
+    },
+    {
+      "text": "Orders Monitor vitals, continue IV fluids, and assess bowel sounds every 6 hours.",
+      "entities": [
+        [8, 77, "Orders"]
+      ]
+    },
+    {
+      "text": "IV Injection: Piperacillin-Tazobactam 4.5g.",
+      "entities": [
+        [14, 43, "Medication"]
+      ]
+    },
+    {
+      "text": "12 hourly Injection: Pantoprazole 40 mg IV.",
+      "entities": [
+        [18, 34, "Medication"],
+        [0, 9, "Frequency"]
+      ]
+    },
+    {
+      "text": "Injection: Ondansetron 4 mg 8 hourly.",
+      "entities": [
+        [11, 25, "Medication"],
+        [26, 34, "Frequency"]
+      ]
+    },
+    {
+      "text": "IV fluid: NS 1 liter over 12 hours.",
+      "entities": [
+        [10, 17, "Fluid"],
+        [26, 35, "Frequency"]
+      ]
+    },
+    {
+      "text": "DNS 1 liter over 8 hours.",
+      "entities": [
+        [0, 11, "Fluid"],
+        [18, 27, "Frequency"]
+      ]
+    },
+    {
+      "text": "Encourage oral fluids and mobilize patient.",
+      "entities": [
+        [0, 43, "Instructions"]
+      ]
+    }
+  ]
+  
+  
+  
+  
